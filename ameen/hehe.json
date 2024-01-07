@@ -1,14 +1,6 @@
 [
-        {
-        "ameens": "https://i.pinimg.com/474x/27/87/9f/27879fa1f48c5710b77b2c9df4074e7d.jpg"
-    },
-            {
-        "ameens": "https://i.pinimg.com/474x/e1/9a/6c/e19a6c74e8c8f94f9f6932140a91fb3b.jpg"
-    },
-            {
-        "ameens": "https://i.pinimg.com/236x/35/d8/3c/35d83caa95c3be8e374641b753455133.jpg"
-    },
-            {
-        "ameens": "https://i.pinimg.com/564x/00/69/87/0069876bb6445ed0086fafe63845d31c.jpg"
-    }
+        "https://i.pinimg.com/474x/27/87/9f/27879fa1f48c5710b77b2c9df4074e7d.jpg",
+        "https://i.pinimg.com/474x/e1/9a/6c/e19a6c74e8c8f94f9f6932140a91fb3b.jpg",
+        "https://i.pinimg.com/236x/35/d8/3c/35d83caa95c3be8e374641b753455133.jpg",
+        "https://i.pinimg.com/564x/00/69/87/0069876bb6445ed0086fafe63845d31c.jpg"
 ]
